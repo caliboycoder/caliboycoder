@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caliboycoder&show_icons=true&locale=en&layout=compact" alt="caliboycoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliboycoder&show_icons=true&theme=tokyonight&locale=en" alt="aliboycoder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caliboycoder&show_icons=true&theme=tokyonight&locale=en" alt="caliboycoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliboycoder&" alt="aliboycoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caliboycoder&" alt="caliboycoder" /></p>
